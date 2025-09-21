@@ -1,3 +1,5 @@
+# Reference solutions for Python data exercises
+# Includes completed implementations for comparison and learning
 
 from __future__ import annotations
 from typing import Dict, List, Tuple, Iterable, Any
