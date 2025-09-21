@@ -1,3 +1,6 @@
+// Sample employee data in JSON format for Python data exercises
+// Used as input for parsing and analysis tasks
+
 {
     "company": "TechCorp",
     "employees": [
@@ -32,4 +35,5 @@
       }
     ]
   }
+
   
