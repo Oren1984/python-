@@ -1,3 +1,5 @@
+# Pytest-based tests for the Python data exercises
+# Validates the implementations in solutions.py
 
 import json, pathlib
 from src.solutions import (
