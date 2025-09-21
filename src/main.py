@@ -1,3 +1,5 @@
+# Entry point for Python data exercises
+# Contains practice tasks and functions to implement
 
 import json
 from pathlib import Path
