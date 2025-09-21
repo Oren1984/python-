@@ -1,1 +1,4 @@
+# Python dependencies for the Python data exercises project
+# Includes libraries required for tasks and testing
+
 pytest>=8.0
